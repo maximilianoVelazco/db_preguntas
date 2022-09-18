@@ -1,0 +1,208 @@
+{
+    "preguntas": [
+	{
+        "categoria": "geografia",
+        "pregunta": "¿En que continente esta situado China?",
+        "respuestas": [
+            ["asia", true],
+            ["america"],
+            ["europa"],
+            ["oceania"]
+            ]
+    	},
+	{
+        "categoria": "geografia",
+        "pregunta": "¿En que parte de Grecia se localiza Esparta?",
+        "respuestas": [
+            ["peloponeso", true],
+            ["Hepiros"],
+            ["Macedonia"],
+            ["El Egeo"]
+            ]
+    	},
+	{
+        "categoria": "ciencia",
+        "pregunta": "¿Cual es el metal mas denso actualmente conocido?",
+        "respuestas": [
+            ["Osmio", true],
+            ["Platino"],
+            ["Oro"],
+            ["Plomo"]
+            ]
+    	},
+	{
+        "categoria": "ciencia",
+        "pregunta": "¿Cual es el animal mas grande que habita en la tierra?",
+        "respuestas": [
+            ["Ballena azul", true],
+            ["Elefante africano"],
+            ["Oso gris"],
+            ["Marmota "]
+            ]
+    	},
+	{
+        "categoria": "ciencia",
+        "pregunta": "¿Qué órgano del cuerpo humano consume más energía?",
+        "respuestas": [
+            ["Cerebro", true],
+            ["Corazon"],
+            ["Intestino delgado"],
+            ["Higado"]
+            ]
+    	},
+	{
+        "categoria": "deportes",
+        "pregunta": "¿Quién ganó el mundial de fútbol de 2010?",
+        "respuestas": [
+            ["España", true],
+            ["Brazil"],
+            ["Alemania"],
+            ["Italia"]
+            ]
+    	},
+{
+        "categoria": "deportes",
+        "pregunta": "¿En qué año debutó Pep Guardiola como entrenador del FC Barcelona?",
+        "respuestas": [
+            ["2008", true],
+            ["2007"],
+            ["2010"],
+            ["2013"]
+            ]
+    	},
+{
+        "categoria": "geografia",
+        "pregunta": "¿Cuál océano se encuentra en la costa este de los Estados Unidos?",
+        "respuestas": [
+            ["Atlantico", true],
+            ["Pacifico"],
+            ["Indico"],
+            ["Artico"]
+            ]
+    	},
+{
+        "categoria": "geografia",
+        "pregunta": "¿Cual es la montaña mas alta del mundo?",
+        "respuestas": [
+            ["Monte Everest", true],
+            ["Makalu"],
+            ["Kilimanjaro"]
+            ]
+    	},
+{
+        "categoria": "deportes",
+        "pregunta": "¿Cuántos jugadores componen un equipo de rugby?",
+        "respuestas": [
+            ["15", true],
+            ["16"],
+            ["14"],
+            ["20"]
+            ]
+    	},
+{
+        "categoria": "deportes",
+        "pregunta": "¿En qué país se encuentra el circuito de Le Mans?",
+        "respuestas": [
+            ["Francia", true],
+            ["Alemania"],
+            ["Belgica"],
+            ["Monaco"]
+            ]
+    	},
+{
+        "categoria": "ciencia",
+        "pregunta": "Un electron lleva carga positiva. ¿Verdadero o falso?",
+        "respuestas": [
+            ["Falso", true],
+            ["Verdadero"]
+            ]
+    	},
+{
+        "categoria": "geografia",
+        "pregunta": "¿Cual es la capital de Brasil?",
+        "respuestas": [
+            ["Brasilia", true],
+            ["San Pablo"],
+            ["Rio de Janeiro"]
+            ]
+    	},
+{
+        "categoria": "geografia",
+        "pregunta": "¿Que ciudad no se encuentra en Europa?",
+        "respuestas": [
+            ["Estambul", true],
+            ["Praga"],
+            ["Barcelona"],
+            ["Lisboa"]
+            ]
+    	},
+{
+        "categoria": "historia",
+        "pregunta": "¿De qué nacionalidad era Juana de Arco?",
+        "respuestas": [
+            ["Francesa", true],
+            ["Inglesa"],
+            ["Italiana"],
+            ["Española"]
+            ]
+    	},
+{
+        "categoria": "historia",
+        "pregunta": "¿Qué famoso filósofo fue maestro de Alejandro Magno durante cinco años?",
+        "respuestas": [
+            ["Aristoteles", true],
+            ["Socrates"],
+            ["Platon"],
+            ["Espiraculo"]
+            ]
+    	},
+{
+        "categoria": "historia",
+        "pregunta": "¿Quién fue el último zar de Rusia?",
+        "respuestas": [
+            ["Nicolas II", true],
+            ["Pedro I el Grande"],
+            ["Alejandro II"],
+            ["Ivan IV"]
+            ]
+    	},
+{
+        "categoria": "deportes",
+        "pregunta": "¿Cada cuantos años se celebran los Juegos Olimpicos?",
+        "respuestas": [
+            ["Cada 4 años", true],
+            ["Cada 2 años"],
+            ["Todos los años"],
+            ["Cada 6 años"]
+            ]
+    	},
+{
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el nombre de la sustancia que le da a la piel y al cabello su pigmentación?",
+        "respuestas": [
+            ["Melanina", true],
+            ["Quitina"],
+            ["Melanoma"]
+            ]
+	},
+{
+        "categoria": "historia",
+        "pregunta": "¿Qué evento inició la Segunda Guerra Mundial?",
+        "respuestas": [
+            ["Alemania invade Polonia", true],
+            ["El asesinato del archiduque Francisco Fernando"],
+            ["Hitler invadio Austria"],
+            ["Japon ataca Pearl Harbor"]
+            ]
+    	},
+{
+        "categoria": "historia",
+        "pregunta": "¿Qué función tenían las pirámides de Egipto",
+        "respuestas": [
+            ["Eran monumentos funerarios", true],
+            ["Eran monumentos en honor a los dioses"],
+            ["Eran monumentos para honrar en vida a sus faraones"]
+            ]
+    	}
+    ]
+}
